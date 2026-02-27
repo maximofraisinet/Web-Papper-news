@@ -2,7 +2,7 @@
 
 Portal web estático que presenta las últimas investigaciones científicas de ArXiv organizadas por categorías temáticas.
 
-🌐 **[Ver Portal en Vivo](https://maximuszoo.github.io/Web-Papper-news/portal_noticias.html)**
+🌐 **[Ver Portal en Vivo](https://maximofraisinet.github.io/Web-Papper-news/portal_noticias.html)**
 
 ## Descripción
 
